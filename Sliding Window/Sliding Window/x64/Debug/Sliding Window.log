@@ -1,0 +1,3 @@
+﻿  Bai_do_xe.cpp
+D:\code\OneDrive - Hanoi University of Science and Technology\Code C++\Sliding Window\Sliding Window\Bai_do_xe.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sliding Window.vcxproj -> D:\code\OneDrive - Hanoi University of Science and Technology\Code C++\Sliding Window\x64\Debug\Sliding Window.exe
